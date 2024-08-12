@@ -5,3 +5,4 @@ assignmant 4 https://github.com/athirajula/DAA-2203a51538/blob/main/week%201.3.c
 assignment 5 https://github.com/athirajula/DAA-2203a51538/blob/main/week1.2.c
 assignmant 6 https://github.com/athirajula/DAA-2203a51538/blob/main/week%202%20insertion%20sort.c
 binary https://github.com/athirajula/DAA-2203a51538/blob/main/binary.c
+merge sort https://github.com/athirajula/DAA-2203a51538/commit/907bff649697583f6eacccca0f5beb3434998b80
